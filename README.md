@@ -1,2 +1,19 @@
-# todo-app
-A simple To-Do List app with HTML, CSS, and JavaScript
+# To-Do List App
+
+یک اپلیکیشن ساده To-Do List با HTML, CSS, JavaScript
+
+### امکانات
+
+- اضافه کردن کار جدید
+- علامت زدن کار انجام شده
+- حذف کار
+- ذخیره‌سازی در localStorage
+- شمارنده‌ی کارهای باقی‌مانده
+
+### اجرا
+
+کافیه فایل `index.html` رو باز کنید تا برنامه اجرا بشه.
+
+### نسخه آنلاین
+
+بعد از آپلود روی GitHub می‌تونید از بخش **Settings → Pages** فعال کنید.
